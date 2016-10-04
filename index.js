@@ -13,3 +13,14 @@ process.exit()
 // second comment from github
 
 // another comment from github
+
+
+var x = {
+    a: 'a',
+    b: 'b',
+    c: function (i) {
+        return i
+    }
+}
+
+
