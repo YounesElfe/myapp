@@ -24,3 +24,4 @@ var x = {
 }
 
 
+console.log(x.a)
