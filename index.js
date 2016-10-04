@@ -14,7 +14,6 @@ process.exit()
 
 // another comment from github
 
-
 var x = {
     a: 'a',
     b: 'b',
@@ -25,3 +24,4 @@ var x = {
 
 
 console.log(x.a)
+console.log(x.c)
