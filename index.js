@@ -14,7 +14,6 @@ process.exit()
 
 // another comment from github
 
-
 var x = {
     a: 'a',
     b: 'b',
