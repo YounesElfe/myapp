@@ -25,3 +25,5 @@ var x = {
 
 console.log(x.a)
 console.log(x.c)
+console.log(x.b)
+
